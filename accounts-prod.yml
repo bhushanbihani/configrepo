@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to Bhushan Bank accounts related production APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Reine Bhushan - Product Owner"
     email: "{cipher}79810da445f2639ead05564d838bb74ff4e54b161f198ec116fc51e69fc4f946aee33f2dedde02814537c859910c230f"
   onCallSupport:
     - (453) 392-4829
