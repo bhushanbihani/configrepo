@@ -9,3 +9,12 @@ accounts:
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
+
+eureka:
+ instance:
+  preferIpAddress: true
+ client:
+   fetchRegistry: true
+   registerWithEureka: true
+   serviceUrl:
+    defaultZone: http://localhost:8761/eureka/
